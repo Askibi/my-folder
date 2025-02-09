@@ -1,0 +1,14 @@
+C:\Users\dinon\my folder\CastingConverting\bin\Debug\net9.0\CastingConverting.exe
+C:\Users\dinon\my folder\CastingConverting\bin\Debug\net9.0\CastingConverting.deps.json
+C:\Users\dinon\my folder\CastingConverting\bin\Debug\net9.0\CastingConverting.runtimeconfig.json
+C:\Users\dinon\my folder\CastingConverting\bin\Debug\net9.0\CastingConverting.dll
+C:\Users\dinon\my folder\CastingConverting\bin\Debug\net9.0\CastingConverting.pdb
+C:\Users\dinon\my folder\CastingConverting\obj\Debug\net9.0\CastingConverting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dinon\my folder\CastingConverting\obj\Debug\net9.0\CastingConverting.AssemblyInfoInputs.cache
+C:\Users\dinon\my folder\CastingConverting\obj\Debug\net9.0\CastingConverting.AssemblyInfo.cs
+C:\Users\dinon\my folder\CastingConverting\obj\Debug\net9.0\CastingConverting.csproj.CoreCompileInputs.cache
+C:\Users\dinon\my folder\CastingConverting\obj\Debug\net9.0\CastingConverting.dll
+C:\Users\dinon\my folder\CastingConverting\obj\Debug\net9.0\refint\CastingConverting.dll
+C:\Users\dinon\my folder\CastingConverting\obj\Debug\net9.0\CastingConverting.pdb
+C:\Users\dinon\my folder\CastingConverting\obj\Debug\net9.0\CastingConverting.genruntimeconfig.cache
+C:\Users\dinon\my folder\CastingConverting\obj\Debug\net9.0\ref\CastingConverting.dll

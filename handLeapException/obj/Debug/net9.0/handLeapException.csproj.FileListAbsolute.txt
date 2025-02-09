@@ -1,0 +1,14 @@
+C:\Users\dinon\my folder\handLeapException\bin\Debug\net9.0\handLeapException.exe
+C:\Users\dinon\my folder\handLeapException\bin\Debug\net9.0\handLeapException.deps.json
+C:\Users\dinon\my folder\handLeapException\bin\Debug\net9.0\handLeapException.runtimeconfig.json
+C:\Users\dinon\my folder\handLeapException\bin\Debug\net9.0\handLeapException.dll
+C:\Users\dinon\my folder\handLeapException\bin\Debug\net9.0\handLeapException.pdb
+C:\Users\dinon\my folder\handLeapException\obj\Debug\net9.0\handLeapException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dinon\my folder\handLeapException\obj\Debug\net9.0\handLeapException.AssemblyInfoInputs.cache
+C:\Users\dinon\my folder\handLeapException\obj\Debug\net9.0\handLeapException.AssemblyInfo.cs
+C:\Users\dinon\my folder\handLeapException\obj\Debug\net9.0\handLeapException.csproj.CoreCompileInputs.cache
+C:\Users\dinon\my folder\handLeapException\obj\Debug\net9.0\handLeapException.dll
+C:\Users\dinon\my folder\handLeapException\obj\Debug\net9.0\refint\handLeapException.dll
+C:\Users\dinon\my folder\handLeapException\obj\Debug\net9.0\handLeapException.pdb
+C:\Users\dinon\my folder\handLeapException\obj\Debug\net9.0\handLeapException.genruntimeconfig.cache
+C:\Users\dinon\my folder\handLeapException\obj\Debug\net9.0\ref\handLeapException.dll

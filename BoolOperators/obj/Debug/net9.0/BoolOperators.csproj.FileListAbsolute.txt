@@ -1,0 +1,14 @@
+C:\Users\dinon\my folder\BoolOperators\bin\Debug\net9.0\BoolOperators.exe
+C:\Users\dinon\my folder\BoolOperators\bin\Debug\net9.0\BoolOperators.deps.json
+C:\Users\dinon\my folder\BoolOperators\bin\Debug\net9.0\BoolOperators.runtimeconfig.json
+C:\Users\dinon\my folder\BoolOperators\bin\Debug\net9.0\BoolOperators.dll
+C:\Users\dinon\my folder\BoolOperators\bin\Debug\net9.0\BoolOperators.pdb
+C:\Users\dinon\my folder\BoolOperators\obj\Debug\net9.0\BoolOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dinon\my folder\BoolOperators\obj\Debug\net9.0\BoolOperators.AssemblyInfoInputs.cache
+C:\Users\dinon\my folder\BoolOperators\obj\Debug\net9.0\BoolOperators.AssemblyInfo.cs
+C:\Users\dinon\my folder\BoolOperators\obj\Debug\net9.0\BoolOperators.csproj.CoreCompileInputs.cache
+C:\Users\dinon\my folder\BoolOperators\obj\Debug\net9.0\BoolOperators.dll
+C:\Users\dinon\my folder\BoolOperators\obj\Debug\net9.0\refint\BoolOperators.dll
+C:\Users\dinon\my folder\BoolOperators\obj\Debug\net9.0\BoolOperators.pdb
+C:\Users\dinon\my folder\BoolOperators\obj\Debug\net9.0\BoolOperators.genruntimeconfig.cache
+C:\Users\dinon\my folder\BoolOperators\obj\Debug\net9.0\ref\BoolOperators.dll

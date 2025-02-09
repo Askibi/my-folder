@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "BitwiesAndShiftOperators/1.0.0": {
+        "runtime": {
+          "BitwiesAndShiftOperators.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BitwiesAndShiftOperators/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\dinon\my folder\BitwiesAndShiftOperators\bin\Debug\net9.0\BitwiesAndShiftOperators.exe
+C:\Users\dinon\my folder\BitwiesAndShiftOperators\bin\Debug\net9.0\BitwiesAndShiftOperators.deps.json
+C:\Users\dinon\my folder\BitwiesAndShiftOperators\bin\Debug\net9.0\BitwiesAndShiftOperators.runtimeconfig.json
+C:\Users\dinon\my folder\BitwiesAndShiftOperators\bin\Debug\net9.0\BitwiesAndShiftOperators.dll
+C:\Users\dinon\my folder\BitwiesAndShiftOperators\bin\Debug\net9.0\BitwiesAndShiftOperators.pdb
+C:\Users\dinon\my folder\BitwiesAndShiftOperators\obj\Debug\net9.0\BitwiesAndShiftOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dinon\my folder\BitwiesAndShiftOperators\obj\Debug\net9.0\BitwiesAndShiftOperators.AssemblyInfoInputs.cache
+C:\Users\dinon\my folder\BitwiesAndShiftOperators\obj\Debug\net9.0\BitwiesAndShiftOperators.AssemblyInfo.cs
+C:\Users\dinon\my folder\BitwiesAndShiftOperators\obj\Debug\net9.0\BitwiesAndShiftOperators.csproj.CoreCompileInputs.cache
+C:\Users\dinon\my folder\BitwiesAndShiftOperators\obj\Debug\net9.0\BitwiesAndShiftOperators.dll
+C:\Users\dinon\my folder\BitwiesAndShiftOperators\obj\Debug\net9.0\refint\BitwiesAndShiftOperators.dll
+C:\Users\dinon\my folder\BitwiesAndShiftOperators\obj\Debug\net9.0\BitwiesAndShiftOperators.pdb
+C:\Users\dinon\my folder\BitwiesAndShiftOperators\obj\Debug\net9.0\BitwiesAndShiftOperators.genruntimeconfig.cache
+C:\Users\dinon\my folder\BitwiesAndShiftOperators\obj\Debug\net9.0\ref\BitwiesAndShiftOperators.dll
